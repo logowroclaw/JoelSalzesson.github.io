@@ -160,7 +160,7 @@ hr.small {
     background-attachment: fixed;
     background-position: left;
     */
-    background: url(../img/flower.jpg) no-repeat left center scroll;
+    background: url(../img/bg.jpg) no-repeat left center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
