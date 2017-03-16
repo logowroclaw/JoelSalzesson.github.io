@@ -164,10 +164,6 @@ hr.small {
   background: url(../img/bg.jpg) no-repeat left center scroll;
   width: 100%;
   height: 100%;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
   
   -webkit-filter: blur(1px);
   -moz-filter: blur(1px);
