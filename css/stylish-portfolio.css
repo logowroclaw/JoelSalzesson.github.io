@@ -165,7 +165,7 @@ hr.small {
   width: 100%;
   height: 100%;
   
-  -webkit-filter: blur(1px);
+  /*-webkit-filter: blur(1px);
   -moz-filter: blur(1px);
   -o-filter: blur(1px);
   -ms-filter: blur(1px);
@@ -175,7 +175,7 @@ hr.small {
   -moz-filter: contrast(150%);
   -o-filter: contrast(150%);
   -ms-filter: contrast(150%);
-  filter: contrast(150%);
+  filter: contrast(150%);*/
     
   -webkit-filter: brightness(0.7);
   -moz-filter: brightness(0.7);
