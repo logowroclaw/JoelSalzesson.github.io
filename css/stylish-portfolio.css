@@ -193,7 +193,14 @@ hr.small {
     background-attachment: fixed;
     background-position: left;
     */
-    background: url(../img/bg.jpg) no-repeat left center scroll;
+   
+
+    background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.7), 
+          rgba(0, 0, 0, 0.7)
+        ),
+        url(../img/bg.jpg) no-repeat left center scroll;
  
     -webkit-background-size: cover;
     -moz-background-size: cover;
